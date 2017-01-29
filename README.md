@@ -7,8 +7,10 @@
 ##  How to use: 
 
 *You have to install python 2.x on your computer to run this script*
+
 Open program in python idle and hit F5 to run this program.
 Or 
+
 **On windows:**
 Open cmd from start menu. Go to the catalog with this program.  type:
 ```
