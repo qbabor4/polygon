@@ -2,7 +2,7 @@
 
 ## Program counts area of polygon for any number of peaks
 
-** Program runs on python 2.X** 
+**Program runs on python 2.X**
 
 ##  How to use: 
 
