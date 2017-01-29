@@ -21,4 +21,8 @@ Open terminal. Go to the catalog with this program.  type:
 ```
 python polygon.py
 ```
+## Description:
+
+function _get_data() takes needed data from user and returns table of tables with peaks. for exaple: [[2,3],[5,6],[7,8]]
+function get_area(peaks) takes table returned by _get_data() as parameter amd returns area of polygon of given peaks
 
