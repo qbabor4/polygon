@@ -21,6 +21,9 @@ Open terminal. Go to the catalog with this program.  type:
 ```
 python polygon.py
 ```
+
+You have to give peaks clockwise or counterclockwise 
+
 ## Description:
 
 function **_get_data()** takes needed data from user and returns table of tables with peaks. for exaple: [[2,3],[5,6],[7,8]]
