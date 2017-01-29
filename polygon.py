@@ -6,3 +6,15 @@ def get_area(listOfPeaks):
     area = abs(area)*(1./2.)
 
     return area
+
+def _get_data():
+    peaks = []
+    i = 0
+    numOfPeaks = int(input("Number of peaks\n>"))
+    while True:
+        if numOfPeaks < 0:
+            print "Wrong number of peaks"
+            numOfPeaks = int(input("Number of peaks\n>"))
+        else:
+            break
+        
